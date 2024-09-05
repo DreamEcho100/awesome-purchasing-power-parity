@@ -33,7 +33,7 @@ This list features a curated set of global products with Purchasing Power Parity
 
 - [Netflix](https://www.netflix.com)
 - [Amazon Prime](https://www.primevideo.com)
-- [Spotity](https://www.spotify.com)
+- [Spotify](https://www.spotify.com)
 - [Disney Plus](https://www.disneyplus.com)
 - [Hotstar](https://www.hotstar.com)
 - [Discovery Plus](https://www.discoveryplus.com)
